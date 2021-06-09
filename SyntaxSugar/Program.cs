@@ -7,7 +7,7 @@ namespace SyntaxSugar
         static void Main(string[] args)
         {
             int anwser = 4;
-            string response; //This needs to be changed I thinkbut not sure to what in order to make "response" acceptable 
+            string response; //This needs to be changed but not sure to what in order to make "response" acceptable 
 
 
             if (anwser < 9)
